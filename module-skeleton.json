@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-work-orders-nuxt",
+  "capabilityKey": "liberusoftware/module-maintenance-work-orders",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-maintenance-work-orders-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/maintenance/nextjs/work-orders.md",
+  "presentationPlan": "projects/maintenance/nuxt/work-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
